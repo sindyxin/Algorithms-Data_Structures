@@ -1,5 +1,7 @@
 # AlgoCasts
-Here are many algorithms practice with test file.
+* Here are many algorithms practice with test file.
+* Algorithm is very important in the interview.
+* Here are popular algorithms and I learned them from instructor StephenGrider of Udemy course. 
 
 ## Set Up
 * git clone https://github.com/sindyxin/Algorithms-Data_Structures.git
